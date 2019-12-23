@@ -6,3 +6,9 @@ This repository contains the controlling part on the iOS platform of our design 
 Knoface is an intelligent home device that gives people control of their favorite functions through the surfaces around them like walls, doors and tables. The idea of surface control comes from voice control which is normally used in smart devices today but with defects in insufficient accuracy and noise.
 
 ## Images
+
+<div align=center><img width="270" height="200" src="https://github.com/brycexu/Knoface/blob/master/Images/Outlook.png"/></div>
+
+<div align=center><img width="270" height="200" src="https://github.com/brycexu/Knoface/blob/master/Images/Innerlook.png"/></div>
+
+<div align=center><img width="270" height="482" src="https://github.com/brycexu/Knoface/blob/master/Images/Control0.png"/></div>
