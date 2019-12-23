@@ -7,8 +7,14 @@ Knoface is an intelligent home device that gives people control of their favorit
 
 ## Images
 
+The exterior look of Knoface
+
 <div align=center><img width="270" height="200" src="https://github.com/brycexu/Knoface/blob/master/Images/Outlook.png"/></div>
 
+The inner look of Knoface
+
 <div align=center><img width="270" height="200" src="https://github.com/brycexu/Knoface/blob/master/Images/Innerlook.png"/></div>
+
+The appearance of the application on iOS
 
 <div align=center><img width="270" height="482" src="https://github.com/brycexu/Knoface/blob/master/Images/Control0.png"/></div>
